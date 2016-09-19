@@ -1,9 +1,5 @@
-# Programming-Language
-আমার বাছাইকৃত সকল প্রোগ্রামীং লাঙ্গুয়েজের সাইটের লিংক গুলোকে এখানে পাওয়া যাবে।
-
-# Welcome to the Programming-Language wiki!
-
 # Programming Language in C
+আমার বাছাইকৃত সকল প্রোগ্রামীং লাঙ্গুয়েজের সাইটের লিংক গুলোকে এখানে পাওয়া যাবে।
 
 ## Part-01	Overview of C, Variables, Data Types.
 ### (i) Overview of C.
