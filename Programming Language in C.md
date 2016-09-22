@@ -11,7 +11,7 @@
 
 ### `(ii) Variables.`
 [a.  প্রোগ্রামিং বইঃ অধ্যায় দুই - ডাটা টাইপ, ইনপুট ও আউটপুট।](http://cpbook.subeen.com/2011/08/data-type-input-output.html)<br>
-[b.  সি প্রোগ্রামিং - ডেটা টাইপ এবং ভেরিয়েবল](http://jakir.me/c-data-type)<br>
+[b.  জাকিরের টেক ডায়েরী সি প্রোগ্রামিং - ডেটা টাইপ এবং ভেরিয়েবল](http://jakir.me/c-data-type)<br>
 [c.  সি প্রোগ্রামিং শিক্ষা - ০৪ :: ডাটা টাইপ\ভেরিয়েবল ও তার গুষ্টি উদ্ধার](http://wercoder.blogspot.com/2016/04/blog-post_88.html)<br>
 [d.  ভেরিয়েবল।](http://www.codingpractise.com/%E0%A6%AD%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%B2/)<br>
 [e.  ভেরিয়েবলে মান সংরক্ষন।](http://www.codingpractise.com/%E0%A6%AD%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A8/)<br>
